@@ -15,3 +15,5 @@ Merupakan sebuah Repository yang diperuntukkan untuk melengkapi Online Test Boot
 ```bash
 http://localhost/arkademy/
 ```
+## Preview Soal No.6
+<p align="center"><a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/46930178/57179299-95e5c280-6ea6-11e9-96bb-c137b6bae54c.PNG"></a></p>
